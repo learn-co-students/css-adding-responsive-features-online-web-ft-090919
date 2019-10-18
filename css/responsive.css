@@ -1,0 +1,10 @@
+@media screen and (mad-width: 1108px) {
+  .wrapper {
+    width: 90%;
+  }
+
+  #social{
+    width: 72px;
+    
+  }
+}
